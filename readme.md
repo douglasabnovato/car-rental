@@ -10,10 +10,10 @@ O site é totalmente responsivo, garantindo uma experiência de navegação flui
 
 ### 📁 Key Features
 
-- Responsive Design: Adapts seamlessly to any screen size with a mobile-first approach.
-- High-Quality Visuals: Professional imagery to create an attractive and engaging design.
-- Customer Reviews: A dedicated section to build trust and credibility.
-- Fast and Interactive: Smooth transitions and optimized performance for a superior user experience.
+- Design Responsivo: Adapta-se perfeitamente a qualquer tamanho de tela com uma abordagem mobile-first.
+- Visuais de Alta Qualidade: Imagens profissionais para criar um design atraente e envolvente.
+- Avaliações de Clientes: Uma seção dedicada para construir confiança e credibilidade.
+- Rápido e Interativo: Transições suaves e desempenho otimizado para uma experiência superior ao usuário.
 
 ### ⏱ Timestamps
 
@@ -44,4 +44,4 @@ O site é totalmente responsivo, garantindo uma experiência de navegação flui
 - Fonts: https://fonts.google.com/
 - Images: https://unsplash.com
 - ScrollReveal: https://scrollrevealjs.org/
-- Images: https://carpoolvenom.blogspot.com/2024/05/car-rental-website-using-html-css-.html
+- Custom images: https://carpoolvenom.blogspot.com/2024/05/car-rental-website-using-html-css-.html
