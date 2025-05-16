@@ -133,14 +133,3 @@ header {
 .text p {
   margin: 0.5rem 0 1rem;
 }
-
-.app-stores {
-    display: flex;
-}
-
-.app-stores img {
-    width: 100px;
-    margin-right: 1rem;
-    cursor: pointer;
-}
-
