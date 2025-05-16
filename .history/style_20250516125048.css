@@ -188,6 +188,5 @@ header {
 }
 
 .form-container form .btn:hover {
-  background: var(--main-color);
-  cursor: pointer;
+    
 }
