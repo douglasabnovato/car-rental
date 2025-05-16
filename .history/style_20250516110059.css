@@ -35,8 +35,6 @@ section {
   padding: 50px 100px;
 }
 
-/* Header */
-
 header {
   position: fixed;
   width: 100%;
@@ -107,12 +105,3 @@ header {
   background: var(--main-color);
 }
 
-/* Home */
-.home {
-    width: 100%;
-    min-height: 100vh;
-    position: relative;
-    background: url(./assets/Car\ Website\ –\ 1@2x.png);
-    background-repeat: no-repeat;
-    background-position: center right;
-}
