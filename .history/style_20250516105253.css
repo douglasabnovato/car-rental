@@ -102,5 +102,5 @@ header {
 }
 
 .header-btn .sign-in:hover {
-  background: var(--main-color);
+    background: var(--main-color);
 }

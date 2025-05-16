@@ -83,24 +83,13 @@ header {
 }
 
 #menu-icon {
-  font-size: 24px;
-  cursor: pointer;
-  z-index: 10001;
-  display: none;
+    font-size: 24px;
+    cursor: pointer;
+    z-index: 10001;
+    display: none;
 }
 
-.header-btn a {
-  padding: 10px 20px;
-  color: var(--text-color);
-  font-weight: 500;
-}
-
-.header-btn .sign-in {
-  background: #474fa0;
-  color: #fff;
-  border-radius: 0.5rem;
-}
-
-.header-btn .sign-in:hover {
-  background: var(--main-color);
+.header-btn {
+    padding: 10px 20px;
+    color: var(--text-color);
 }

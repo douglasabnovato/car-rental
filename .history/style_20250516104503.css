@@ -89,18 +89,7 @@ header {
   display: none;
 }
 
-.header-btn a {
+.header-btn a{
   padding: 10px 20px;
   color: var(--text-color);
-  font-weight: 500;
-}
-
-.header-btn .sign-in {
-  background: #474fa0;
-  color: #fff;
-  border-radius: 0.5rem;
-}
-
-.header-btn .sign-in:hover {
-  background: var(--main-color);
 }
