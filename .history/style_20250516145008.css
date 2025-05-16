@@ -228,15 +228,7 @@ header {
 }
 
 .ride-container .box h2 {
-  font-size: 1.3rem;
-  font-weight: 500;
-  margin: 1.4rem 0 0.5rem;
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin: 1.4rem 0 0.5rem;
 }
-
-.ride-container .box .bx:hover,
-.ride-container .box .bx .bxs-calendar-star {
-  background: var(--gradient);
-  color: #fff;
-}
-
-/* Services */
