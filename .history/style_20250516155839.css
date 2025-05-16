@@ -331,5 +331,5 @@ header {
 }
 
 .about-text .btn:hover {
-  background: var(--main-color);
+    background: var(--main-color);
 }

@@ -329,7 +329,3 @@ header {
   color: #fff;
   border-radius: 0.5rem;
 }
-
-.about-text .btn:hover {
-  background: var(--main-color);
-}
