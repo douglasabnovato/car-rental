@@ -16,7 +16,7 @@ window.onscroll = () => {
 /**
  * Scrollrevel
  */
-const sr = ScrollReveal({
+const sr = ScrollRevel({
   distance: "60px",
   duration: 2500,
   delay: 400,

@@ -16,7 +16,7 @@ window.onscroll = () => {
 /**
  * Scrollrevel
  */
-const sr = ScrollReveal({
+const sr = ScrollRevel({
   distance: "60px",
   duration: 2500,
   delay: 400,
@@ -30,4 +30,4 @@ sr.reveal(".ride-container .box", { delay: 600, origin: "top" });
 sr.reveal(".services-container .box", { delay: 600, origin: "top" });
 sr.reveal(".about-container .box", { delay: 600, origin: "top" });
 sr.reveal(".reviews-container", { delay: 600, origin: "top" });
-sr.reveal(".newsletter .box", { delay: 400, origin: "bottom" });
+sr.reveal(".newsletter", { delay: 600, origin: "top" });
