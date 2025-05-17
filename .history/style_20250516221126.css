@@ -544,7 +544,7 @@ header {
     width: 284px;
   }
 
-  .form-container {
+  .form-container{
     padding-top: 2rem;
   }
 }
@@ -570,6 +570,10 @@ header {
 
   .text h1 {
     font-size: 2rem;
+  }
+
+  .form-container {
+    padding-top: 2rem;
   }
 
   .services-container {

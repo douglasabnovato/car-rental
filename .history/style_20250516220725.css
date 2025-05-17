@@ -543,15 +543,11 @@ header {
   .newsletter .box {
     width: 284px;
   }
-
-  .form-container {
-    padding-top: 2rem;
-  }
 }
 
 @media screen and (max-width: 350px) {
   header {
-    padding: 6px 14px;
+    padding: 4px 14px;
   }
 
   .logo img {
@@ -560,19 +556,5 @@ header {
 
   section {
     padding: 50px 14px;
-  }
-
-  .header-btn .sign-in {
-    padding: 7px 10px;
-    font-size: 14px;
-    font-weight: 400;
-  }
-
-  .text h1 {
-    font-size: 2rem;
-  }
-
-  .services-container {
-    grid-template-columns: repeat(auto-fit, minmax(254px, auto));
   }
 }

@@ -543,10 +543,6 @@ header {
   .newsletter .box {
     width: 284px;
   }
-
-  .form-container {
-    padding-top: 2rem;
-  }
 }
 
 @media screen and (max-width: 350px) {
@@ -572,7 +568,12 @@ header {
     font-size: 2rem;
   }
 
+  .form-container {
+    padding-top: 2rem;
+  }
+
   .services-container {
     grid-template-columns: repeat(auto-fit, minmax(254px, auto));
   }
+
 }
