@@ -437,7 +437,7 @@ header {
 
 /* Responsive */
 
-@media screen and (max-width: 991px) {
+@media (max-width: 991px) {
   header {
     padding: 18px 40px;
   }
@@ -446,7 +446,7 @@ header {
   }
 }
 
-@media screen and (max-width: 891px) {
+@media (max-width: 891px) {
   .home {
     background-position: left;
   }
@@ -456,7 +456,7 @@ header {
   }
 }
 
-@media screen and (max-width: 768px) {
+@media (max-width: 768px) {
   header {
     padding: 11px 40px;
   }
@@ -483,29 +483,21 @@ header {
 
   header .navbar {
     position: absolute;
-    top: -500px;
+    top: 100%;
     left: 0;
     right: 0;
     display: flex;
     flex-direction: column;
     background: #fff;
-    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
-    transition: 0.2 ease;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, .1);
+    transition: .2 ease;
     text-align: left;
-  }
-
-  .navbar.active{
-    top: 100%;
-  }
-
-  .navbar a {
-    padding: 1rem;
     border-left: 2px solid var(--main-color);
     margin: 1rem;
     display: block;
   }
 
-  .navbar a:hover {
+  .navbar a:hover{
     color: #fff;
     background: var(--main-color);
     border: none;

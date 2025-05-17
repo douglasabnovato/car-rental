@@ -437,7 +437,7 @@ header {
 
 /* Responsive */
 
-@media screen and (max-width: 991px) {
+@media (max-width: 991px) {
   header {
     padding: 18px 40px;
   }
@@ -446,7 +446,7 @@ header {
   }
 }
 
-@media screen and (max-width: 891px) {
+@media (max-width: 891px) {
   .home {
     background-position: left;
   }
@@ -456,7 +456,7 @@ header {
   }
 }
 
-@media screen and (max-width: 768px) {
+@media (max-width: 768px) {
   header {
     padding: 11px 40px;
   }
